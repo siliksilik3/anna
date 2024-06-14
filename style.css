@@ -5,7 +5,8 @@
     text-align: center;
 }
 body{
-    background-color: #E1F2D6;
+    background-image: url("images/images/anna.jpeg");
+    background-color: #cccccc;
 }
 h1 {
     position: relative;
